@@ -3,7 +3,10 @@ Web scraping in Python is the process of automatically extracting data from webs
 
 ```
 git clone https://github.com/madankumar-sketch/Web_Scraper
-install the requirements and chrome driver and run the *main_scraper.py*
 ```
+```
+pip install -r requirements.txt
+```
+install the requirements and chrome driver and run the *main_scraper.py*
 
 driver link:https://developer.chrome.com/docs/chromedriver/downloads
