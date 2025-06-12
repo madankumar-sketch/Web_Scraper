@@ -1,2 +1,9 @@
-# Web
-A web scraper is a tool or script that automatically extracts data from websites. It mimics how humans browse the web, but it does so programmatically, allowing you to collect large volumes of information quickly and systematically.
+# Web_Scraper
+Web scraping in Python is the process of automatically extracting data from websites. It's widely used for tasks like data analysis, price monitoring, lead generation, news aggregation
+
+```
+git clone https://github.com/madankumar-sketch/Web_Scraper
+install the requirements and chrome driver and run the *main_scraper.py*
+```
+
+driver link:https://developer.chrome.com/docs/chromedriver/downloads

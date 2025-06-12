@@ -1,0 +1,65 @@
+<div class="tBlock dboxColor-1" title="Latest Active Tenders">
+													<div class="faIcon">
+														<div class="icon-homepage-8 m0C"></div>
+														<!-- <i class="fa fa-file-text-o" aria-hidden="true"></i> -->
+													</div>
+													<div class="dTitle">
+														New Tenders
+													</div>
+													<div class="middleLine">854</div>
+													<div class="dLinks">
+														<a href="https://etender.cpwd.gov.in/login.html#" id="a_TenderswithinOneday1"> <span class="dLinksDuration"> 24 Hrs
+														</span></a> <a href="https://etender.cpwd.gov.in/login.html#" id="a_TenderswithinOneday2"> <span class="dLinksDuration"> 1 Week
+														</span></a> <a href="https://etender.cpwd.gov.in/login.html#" id="a_TenderswithinOneday3"><span class="dLinksDuration"> All
+														</span></a>
+													</div>
+												</div>
+
+
+
+
+
+ python main.py
+[<div class="tBlock dboxColor-1" title="Latest Active Tenders">
+<div class="faIcon">
+<div class="icon-homepage-8 m0C"></div>
+<!-- <i class="fa fa-file-text-o" aria-hidden="true"></i> -->
+</div>
+<div class="dTitle">
+                                                                                                                New Tenders
+                                                                                                        </div>
+<div class="middleLine">854</div>
+<div class="dLinks">
+<a href="https://etender.cpwd.gov.in/login.html#" id="a_TenderswithinOneday1"> <span class="dLinksDuration"> 24 Hrs
+                                                                                                                </span></a> <a href="https://etender.cpwd.gov.in/login.html#" id="a_TenderswithinOneday2"> <span class="dLinksDuration"> 1 Week
+                                                                                                                </span></a> <a href="https://etender.cpwd.gov.in/login.html#" id="a_TenderswithinOneday3"><span class="dLinksDuration"> All
+                                                                                                                </span></a>
+</div>
+</div>]
+(env) (base)
+laptop@DESKTOP-D4PUVQT MSYS ~/Desktop/web3/Web_Scraper (main)
+$ python main.py
+[]
+(env) (base)
+laptop@DESKTOP-D4PUVQT MSYS ~/Desktop/web3/Web_Scraper (main)
+$ python main.py
+[<div class="dLinks">
+<a href="https://etender.cpwd.gov.in/login.html#" id="a_TenderswithinOneday1"> <span class="dLinksDuration"> 24 Hrs
+                                                                                                                </span></a> <a href="https://etender.cpwd.gov.in/login.html#" id="a_TenderswithinOneday2"> <span class="dLinksDuration"> 1 Week
+                                                                                                                </span></a> <a href="https://etender.cpwd.gov.in/login.html#" id="a_TenderswithinOneday3"><span class="dLinksDuration"> All
+                                                                                                                </span></a>
+</div>, <div class="dLinks">
+<a href="https://etender.cpwd.gov.in/login.html#" id="a_CorrigendumMore1"><span class="dLinksDuration"> 24 Hrs
+                                                                                                                </span></a> <a href="https://etender.cpwd.gov.in/login.html#" id="a_CorrigendumMore2"><span class="dLinksDuration"> 1 Week
+                                                                                                                </span></a> <a href="https://etender.cpwd.gov.in/login.html#" id="a_CorrigendumMore3"><span class="dLinksDuration"> All
+                                                                                                                </span></a>
+</div>, <div class="dLinks">
+<a href="https://etender.cpwd.gov.in/login.html#" id="a_TenderDetailsHome1"><span class="dLinksDuration"> 24 Hrs
+                                                                                                                </span></a> <a href="https://etender.cpwd.gov.in/login.html#" id="a_TenderDetailsHome2"><span class="dLinksDuration"> 1 Week
+                                                                                                                </span></a> <a href="https://etender.cpwd.gov.in/login.html#" id="a_TenderDetailsHome3"><span class="dLinksDuration"> All
+                                                                                                                </span></a>
+</div>, <div class="dLinks">
+<a href="https://etender.cpwd.gov.in/login.html#" id="a_tenderAwardedDetails3"><span class="dLinksDuration"> All
+                                                                                                                </span></a>
+</div>]
+(env) (base)  
